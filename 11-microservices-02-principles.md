@@ -130,6 +130,12 @@ curl -X GET http://localhost/images/4e6df220-295e-4231-82bc-45e4b1484430.jpg
 
 ---
 
+### Решение к задаче 3
+
+https://github.com/timurdevlikamov-cpu/api-gateway-lab/blob/main/README.md
+
+https://github.com/timurdevlikamov-cpu/api-gateway-lab/blob/main/docker-compose.yml
+
 #### [Дополнительные материалы: как запускать, как тестировать, как проверить](https://github.com/netology-code/devkub-homeworks/tree/main/11-microservices-02-principles)
 
 ---
