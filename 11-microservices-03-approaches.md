@@ -105,7 +105,8 @@ docker compose файл, запустив который можно перейт
 Логин в Kibana должен быть admin, пароль qwerty123456.
 
 ### Решение к задаче 4
-Добавлены сервисы по сбору логов: Vector + ElasticSearch + Kibana 
+Добавлены сервисы по сбору логов: Vector + ElasticSearch + Kibana
+
 https://github.com/timurdevlikamov-cpu/api-gateway-lab/blob/main/docker-compose.yml
 
 
@@ -126,7 +127,8 @@ docker compose файл, запустив который можно перейт
 Логин в Grafana должен быть admin, пароль qwerty123456.
 
 ### Решение к задаче 5
-Добавлены сервисы мониторинга: Prometheus + Grafana 
+Добавлены сервисы мониторинга: Prometheus + Grafana
+
 https://github.com/timurdevlikamov-cpu/api-gateway-lab/blob/main/docker-compose.yml
 
 
