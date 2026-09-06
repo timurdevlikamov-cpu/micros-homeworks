@@ -104,6 +104,10 @@ Node Exporter + Prometheus + Grafana + Client Library
 docker compose файл, запустив который можно перейти по адресу http://localhost:8081, по которому доступна Kibana.
 Логин в Kibana должен быть admin, пароль qwerty123456.
 
+### Решение к задаче 4
+Добавлены сервисы по сбору логов: Vector + ElasticSearch + Kibana 
+https://github.com/timurdevlikamov-cpu/api-gateway-lab/blob/main/docker-compose.yml
+
 
 ## Задача 5: Мониторинг * (необязательная)
 
@@ -120,6 +124,11 @@ docker compose файл, запустив который можно перейт
 
 docker compose файл, запустив который можно перейти по адресу http://localhost:8081, по которому доступна Grafana с настроенным Dashboard.
 Логин в Grafana должен быть admin, пароль qwerty123456.
+
+### Решение к задаче 5
+Добавлены сервисы мониторинга: Prometheus + Grafana 
+https://github.com/timurdevlikamov-cpu/api-gateway-lab/blob/main/docker-compose.yml
+
 
 ---
 
