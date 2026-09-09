@@ -39,6 +39,11 @@
 
 ---
 
+### Решение к задаче 2
+
+https://github.com/timurdevlikamov-cpu/redis-cluster-docker/blob/main/README.md
+
+
 ### Как оформить ДЗ?
 
 Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
